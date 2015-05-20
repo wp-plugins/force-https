@@ -1,5 +1,5 @@
 ﻿=== Force HTTPS ===
-Contributors: riyad_A
+Contributors: riyad_a
 Tags: ssl, https, http, secure, wordpress ssl
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2ARSDUHFKCHA6&lc=US&item_name=Riyad%20Arefin¤cy_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Requires at least: 3.2
