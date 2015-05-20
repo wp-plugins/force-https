@@ -25,7 +25,8 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 What should i do after activating the plugin?
-Nothing! You just need to install and active the plugin. After activating the plugin it will automatically be working and will server you entire website over SSL.
+
+Nothing! You just need to install and active the plugin. After activating the plugin it will automatically be working and will force to go your entire website over SSL.
 
 
 
